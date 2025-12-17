@@ -19,7 +19,7 @@
             "name": "FiveM Launcher",
             "description": "Custom launcher สำหรับ FiveM พร้อมระบบเลือก Pure Mode ที่สะดวกและรวดเร็ว",
             "version": "1.0.0",
-            "downloadUrl": "",
+            "downloadUrl": "https://github.com/Smallzoamz/FiveMLauncher/releases/download/v1.0.2/FiveM-Launcher-1.0.2-portable.zip",
             "githubRepo": "Smallzoamz/FiveMLauncher",
             "icon": "",
             "size": "45 MB",
