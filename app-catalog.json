@@ -4,7 +4,7 @@
     "apps": [
         {
             "id": "medic-recruitment",
-            "name": "Medic OP Systems",
+            "name": "Medic OP Desktop",
             "description": "ระบบจัดการ OP และติดตามสถานะ Medic แบบ Real-time",
             "version": "1.6.1",
             "downloadUrl": "https://github.com/Smallzoamz/medicop/releases/download/v1.6.1-build.21/Medical-OP-Systems-1.6.1-build.21-portable.zip",
@@ -29,6 +29,7 @@
     ],
     "launcher": {
         "version": "1.0.0",
-        "downloadUrl": ""
+        "downloadUrl": "https://github.com/Smallzoamz/Bonchon-Studio/releases/latest",
+        "githubRepo": "Smallzoamz/Bonchon-Studio"
     }
 }
