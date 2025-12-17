@@ -3,7 +3,7 @@
     "lastUpdated": "2025-12-17",
     "apps": [
         {
-            "id": "medic-recruitment",
+            "id": "medic-op-systems",
             "name": "Medic OP Systems",
             "description": "ระบบจัดการ OP และติดตามสถานะ Medic แบบ Real-time",
             "version": "1.6.1",
