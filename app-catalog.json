@@ -6,9 +6,8 @@
             "id": "medic-recruitment",
             "name": "Medic OP Systems",
             "description": "ระบบจัดการ OP และติดตามสถานะ Medic แบบ Real-time",
-            "version": "1.2.0",
-            "downloadUrl": "",
-            "icon": "",
+            "version": "1.6.1",
+            "downloadUrl": "https://github.com/Smallzoamz/medicop/releases/download/v1.6.1-build.18/Medical-OP-Systems-Setup-1.6.1-build.18.exe",
             "size": "82 MB",
             "category": "Management",
             "bgColor": "linear-gradient(135deg, #00d4ff 0%, #0099cc 50%, #006699 100%)"
@@ -16,28 +15,15 @@
         {
             "id": "fivem-launcher",
             "name": "FiveM Launcher",
-            "description": "Custom launcher สำหรับ FiveM พร้อมระบบเลือก Pure Mode ที่สะดวกและรวดเร็ว",
+            "description": "Custom launcher สำหรับ FiveM พร้อมระบบเลือก Pure Mode",
             "version": "1.0.0",
             "downloadUrl": "",
-            "icon": "",
             "size": "45 MB",
             "category": "Gaming",
             "bgColor": "linear-gradient(135deg, #ff6b35 0%, #f7931e 50%, #ff4500 100%)"
-        },
-        {
-            "id": "bonchon-tools",
-            "name": "Bonchon Tools",
-            "description": "ชุดเครื่องมือสำหรับนักพัฒนาจาก Bonchon Studio",
-            "version": "1.0.0",
-            "downloadUrl": "",
-            "icon": "",
-            "size": "25 MB",
-            "category": "Development",
-            "bgColor": "linear-gradient(135deg, #a855f7 0%, #7c3aed 50%, #6d28d9 100%)"
         }
     ],
     "launcher": {
-        "version": "1.0.0",
-        "downloadUrl": ""
+        "version": "1.0.0"
     }
 }
