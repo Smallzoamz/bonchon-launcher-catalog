@@ -7,8 +7,8 @@
             "name": "Medic OP Systems",
             "description": "ระบบจัดการ OP และติดตามสถานะ Medic แบบ Real-time",
             "version": "1.6.1",
-            "downloadUrl": "https://github.com/Smallzoamz/medicop/releases/download/v1.6.1-build.18/Medical-OP-Systems-Setup-1.6.1-build.18.exe",
-            "size": "82 MB",
+            "downloadUrl": "https://github.com/Smallzoamz/medicop/releases/download/v1.6.1-build.18/Medical-OP-Systems-1.6.1-build.18-portable.zip",
+            "size": "132 MB",
             "category": "Management",
             "bgColor": "linear-gradient(135deg, #00d4ff 0%, #0099cc 50%, #006699 100%)"
         },
